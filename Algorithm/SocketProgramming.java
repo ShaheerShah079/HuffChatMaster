@@ -10,7 +10,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class SocketProgramming{
-  
+  //A Test File for Soccket Programming
     public void send() throws IOException
     {
         try{
