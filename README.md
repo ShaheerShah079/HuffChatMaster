@@ -8,7 +8,7 @@
     <h1>Huffman Coding Chat Application</h1>
 
   <h2>Overview</h2>
-  <p>This project implements a chat application using Huffman coding for lossless data compression. It features a graphical user interface (GUI) for encoding and sending messages, as well as decoding received messages. The application also visualizes the Huffman coding table and supports network communication to send and receive messages.</p>
+  <p>This project is developed as a semester project for the Data Structures and Algorithms course. It implements a chat application using Huffman coding for lossless data compression. It features a graphical user interface (GUI) for encoding and sending messages, as well as decoding received messages. The application also visualizes the Huffman coding table and supports network communication to send and receive messages.</p>
 
   <h2>Project Structure</h2>
 
